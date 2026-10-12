@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://glama.ai/mcp/connectors/app.swapwallet/mcp"><img src="https://glama.ai/mcp/connectors/app.swapwallet/mcp/badges/score.svg" alt="SwapWallet MCP connector on Glama"></a>
-  <a href="https://registry.modelcontextprotocol.io/v0/servers?search=app.swapwallet"><img src="https://img.shields.io/badge/MCP_Registry-app.swapwallet%2Fmcp-2563eb" alt="Official MCP Registry: app.swapwallet/mcp"></a>
+  <a href="https://registry.modelcontextprotocol.io/v0.1/servers/app.swapwallet%2Fmcp/versions/latest"><img src="https://img.shields.io/badge/MCP_Registry-app.swapwallet%2Fmcp-2563eb" alt="Official MCP Registry: app.swapwallet/mcp"></a>
   <img src="https://img.shields.io/badge/auth-OAuth_2.1-16a34a" alt="OAuth 2.1">
   <img src="https://img.shields.io/badge/transport-Streamable_HTTP-7c3aed" alt="Streamable HTTP">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT license"></a>
