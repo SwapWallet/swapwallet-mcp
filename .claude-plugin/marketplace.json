@@ -1,0 +1,21 @@
+{
+  "name": "swapwallet",
+  "owner": {
+    "name": "SwapWallet",
+    "email": "support@swapwallet.app"
+  },
+  "metadata": {
+    "description": "Official SwapWallet plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "swapwallet",
+      "source": "./",
+      "description": "SwapWallet crypto wallet: balances, P&L and history, plus swaps, transfers and withdrawals that run only after you approve them in Telegram.",
+      "version": "1.0.0",
+      "category": "finance",
+      "homepage": "https://swapwallet.app/docs/mcp",
+      "keywords": ["mcp", "crypto", "wallet", "finance"]
+    }
+  ]
+}

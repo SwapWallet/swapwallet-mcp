@@ -1,0 +1,14 @@
+{
+  "name": "swapwallet",
+  "version": "1.0.0",
+  "description": "SwapWallet crypto wallet in Claude Code: balances, P&L and history, plus swaps, transfers and withdrawals that run only after you approve them in Telegram.",
+  "author": {
+    "name": "SwapWallet",
+    "email": "support@swapwallet.app",
+    "url": "https://swapwallet.app"
+  },
+  "homepage": "https://swapwallet.app/docs/mcp",
+  "repository": "https://github.com/SwapWallet/swapwallet-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "crypto", "wallet", "exchange", "portfolio", "finance", "telegram", "oauth"]
+}

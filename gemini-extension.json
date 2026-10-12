@@ -1,0 +1,11 @@
+{
+  "name": "swapwallet",
+  "version": "1.0.0",
+  "description": "SwapWallet crypto wallet: balances, P&L and history, plus swaps, transfers and withdrawals that run only after you approve them in Telegram.",
+  "mcpServers": {
+    "swapwallet": {
+      "httpUrl": "https://swapwallet.app/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.swapwallet/mcp",
+  "title": "SwapWallet",
+  "description": "Crypto wallet: balances, P&L, history. Swaps, transfers and withdrawals need Telegram approval.",
+  "version": "1.0.1",
+  "websiteUrl": "https://swapwallet.app",
+  "repository": {
+    "url": "https://github.com/SwapWallet/swapwallet-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://swapwallet.app/icon.png",
+      "mimeType": "image/png",
+      "sizes": ["256x256"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://swapwallet.app/mcp"
+    }
+  ]
+}
