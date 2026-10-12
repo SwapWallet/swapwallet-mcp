@@ -204,8 +204,10 @@ The server runs inside SwapWallet's backend; this repository holds its public de
 | [`.mcp.json`](.mcp.json) | Claude Code and other clients that read a project MCP config |
 | [`llms-install.md`](llms-install.md) | Step-by-step setup for agents that install servers themselves (Cline) |
 | [`.claude-plugin/`](.claude-plugin) | Claude Code plugin and marketplace |
+| [`.codex-plugin/`](.codex-plugin) | Codex plugin (same MCP server and skill) |
 | [`skills/swapwallet/`](skills/swapwallet/SKILL.md) | Claude skill: how an agent should use the tools safely (ships with the plugin) |
 | [`gemini-extension.json`](gemini-extension.json), [`GEMINI.md`](GEMINI.md) | Gemini CLI extension and its context file |
+| [`SECURITY.md`](SECURITY.md) | How to report a vulnerability |
 
 Found an issue with the docs or a client config? Open an issue or a pull request.
 
